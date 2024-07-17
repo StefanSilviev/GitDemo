@@ -14,6 +14,9 @@ public class IOSTest extends IOSBaseTest{
 		alertViews.fillTextLabel("Hello World!"); //(AppiumBy.iOSClassChain("**/XCUIElementTypeOther[`name == 'Horizontal scroll bar, 1 page'`]"));
 		String actualMessage = alertViews.getConfirmMessage();
 		AssertJUnit.assertEquals(actualMessage, "A message should be a short, complete sentence.");
-		
+		System.out.println("GitTest");
+		System.out.println("GitTest2");
+		System.out.println("GitTest3");
+	
 	}
 }
