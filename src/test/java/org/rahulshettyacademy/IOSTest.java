@@ -17,6 +17,10 @@ public class IOSTest extends IOSBaseTest{
 
 
 		//last change
+<<<<<<< HEAD
 		// Git X made some chenches on Master directly
+=======
+		//Some changech to develop by GitDemo
+>>>>>>> refs/remotes/origin/master
 	}
 }
