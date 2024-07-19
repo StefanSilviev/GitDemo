@@ -15,8 +15,7 @@ public class IOSTest extends IOSBaseTest{
 		String actualMessage = alertViews.getConfirmMessage();
 		AssertJUnit.assertEquals(actualMessage, "A message should be a short, complete sentence.");
 
-		System.out.println("New branch created 'develop'");
-		System.out.println("New change related to merge conflict");
+		System.out.println("1 by GitDemo");
 
 	}
 }
