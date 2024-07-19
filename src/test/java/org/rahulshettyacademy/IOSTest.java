@@ -16,7 +16,6 @@ public class IOSTest extends IOSBaseTest{
 		AssertJUnit.assertEquals(actualMessage, "A message should be a short, complete sentence.");
 
 
-		//deleted
-
+		//last change
 	}
 }
