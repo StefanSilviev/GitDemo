@@ -16,7 +16,7 @@ public class IOSTest extends IOSBaseTest{
 		AssertJUnit.assertEquals(actualMessage, "A message should be a short, complete sentence.");
 
 		System.out.println("1 by GitDemo");
-		System.out.println("2 by GitDemo");
+		//23
 
 	}
 }
