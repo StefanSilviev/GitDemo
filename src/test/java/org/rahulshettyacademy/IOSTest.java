@@ -17,7 +17,6 @@ public class IOSTest extends IOSBaseTest{
 
 
 		//last change
-		//Some changech to develop by GitDemo
-		//fck you
+
 	}
 }
