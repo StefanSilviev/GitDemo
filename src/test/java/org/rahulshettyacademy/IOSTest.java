@@ -16,9 +16,7 @@ public class IOSTest extends IOSBaseTest{
 		AssertJUnit.assertEquals(actualMessage, "A message should be a short, complete sentence.");
 
 
-		//last change
-
-		//Good Night by GitX
-
+		// Change in master branch
+		System.out.println("Change in master");
 	}
 }
