@@ -15,11 +15,8 @@ public class IOSTest extends IOSBaseTest{
 		String actualMessage = alertViews.getConfirmMessage();
 		AssertJUnit.assertEquals(actualMessage, "A message should be a short, complete sentence.");
 
-<<<<<<< HEAD
-		//merge conflict
-=======
+
 		//deleted
->>>>>>> refs/remotes/origin/master
 
 	}
 }
